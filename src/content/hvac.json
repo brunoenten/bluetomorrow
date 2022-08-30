@@ -1,0 +1,440 @@
+{
+  "rss": {
+    "channel": {
+      "title": "ESmagazine.com's RSS Feed",
+      "description": {
+        "__cdata": "Keep up to date on the latest news and information posted to ESmagazine.com with our RSS feed."
+      },
+      "link": "https://www.esmagazine.com/rss/16",
+      "language": "en-us",
+      "item": [
+        {
+          "title": "Take Charge of Your HVAC Design for the Good of the Environment",
+          "author": "hmckew@bss-consultant.com (Howard McKew, P.E., C.P.E.)",
+          "description": {
+            "__cdata": "<p>Ensure the project’s engineered solution is environmentally responsible through value engineering rather than as an HVAC alternate based on a return on investment.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102616",
+          "pubDate": "Tue, 30 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102616-take-charge-of-your-hvac-design-for-the-good-of-the-environment",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Sep/ES-TE-slide1-900x550.jpg?1661806244",
+            "_type": "image/jpeg",
+            "_length": "52774"
+          }
+        },
+        {
+          "title": "Expanded E6 Constant Torque Position Control Hinge Series – Southco",
+          "description": {
+            "__cdata": "<p>The stainless steel positioning hinge is corrosion-resistant. </p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102608",
+          "pubDate": "Tue, 30 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102608-expanded-e6-constant-torque-position-control-hinge-series-southco",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/24/Southco-E6-Constant-Torque-Position-Control-Hinge.png?1661364593",
+            "_type": "image/png",
+            "_length": "114836"
+          }
+        },
+        {
+          "title": "Johnson Controls Receives ISASecure Certification Through exida",
+          "description": {
+            "__cdata": "<p>With an internationally recognized ISASecure certification from exida, Johnson Controls provides customers with the assurance that their product is safely and securely performing in conditions that would normally shut down other chillers.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102599",
+          "pubDate": "Tue, 30 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102599-johnson-controls-receives-isasecure-certification-through-exida",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/23/YMC2-frontcenter.jpg?1661283667",
+            "_type": "image/jpeg",
+            "_length": "1120455"
+          }
+        },
+        {
+          "title": "20 to Watch: Women in HVAC Contest Seeks Nominees",
+          "author": "woerpelh@bnpmedia.com (Herb Woerpel)",
+          "description": {
+            "__cdata": "<p>Here’s a great opportunity to grant the women at your firm the recognition they deserve. Nominate your leading lady today!</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102615",
+          "pubDate": "Mon, 29 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102615-20-to-watch-women-in-hvac-contest-seeks-nominees",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-EN-slide2-900x550.jpg?1661641037",
+            "_type": "image/jpeg",
+            "_length": "46342"
+          }
+        },
+        {
+          "title": "NimbleSense Pressure Switch Feature – Superior Sensor Technology",
+          "description": {
+            "__cdata": "<p>The new NimbleSense feature is designed to provides more design flexibility and faster switching performance.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102607",
+          "pubDate": "Mon, 29 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102607-nimblesense-pressure-switch-feature-superior-sensor-technology",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/24/Superior-Switch-Nimblesense.jpg?1661364033",
+            "_type": "image/jpeg",
+            "_length": "64932"
+          }
+        },
+        {
+          "title": "ACEC Research Institute Releases Findings of Q3 Engineering Business Sentiment Report",
+          "description": {
+            "__cdata": "<p>Concerns over the economy worsen while workforce challenges persist.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102598",
+          "pubDate": "Mon, 29 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102598-acec-research-institute-releases-findings-of-q3-engineering-business-sentiment-report",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/logo_acec.png?1661283051",
+            "_type": "image/png",
+            "_length": "24245"
+          }
+        },
+        {
+          "title": "Video: Exhibitors Praise ABMA’s BOILER 2022 Event",
+          "author": "woerpelh@bnpmedia.com (Herb Woerpel)",
+          "description": {
+            "__cdata": "<p>Numerous exhibitors share their greatest takeaways from ABMA’s BOILER 2022 event in Dallas.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102614",
+          "pubDate": "Sun, 28 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102614-video-exhibitors-praise-abmas-boiler-2022-event",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-0828-slide1-900x550.jpg?1661555601",
+            "_type": "image/jpeg",
+            "_length": "65812"
+          }
+        },
+        {
+          "title": "How Does Inflation Affect Manufacturing?",
+          "description": {
+            "__cdata": "<p>Manufacturers will be in the best position to fight industrial inflation if they allow themselves to think outside the box and become willing to explore new options.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102613",
+          "pubDate": "Sat, 27 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102613-how-does-inflation-affect-manufacturing",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-0827-slide1-900x550.jpg?1661555020",
+            "_type": "image/jpeg",
+            "_length": "91331"
+          }
+        },
+        {
+          "title": "Connections Are Central to Future Systems of Systems",
+          "description": {
+            "__cdata": "<p>We worked with the Digital Twin Consortium to build their model of system interoperation, work that was mostly defining capabilities for connections.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102612",
+          "pubDate": "Fri, 26 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102612-connections-are-central-to-future-systems-of-systems",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-0826-slide1-900x550.jpg?1661455626",
+            "_type": "image/jpeg",
+            "_length": "106580"
+          }
+        },
+        {
+          "title": "Bio-Rust Preventative Fluid – Renewable Lubricants",
+          "description": {
+            "__cdata": "<p>The bio-based formulation is environmentally nontoxic, free of volatile organic compounds (VOCs), and highly effective at inhibiting corrosion on ferrous and galvanized steel.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102593",
+          "pubDate": "Fri, 26 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102593-bio-rust-preventative-fluid-renewable-lubricants",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/RL-Bio-Rust-Preventative.jpg?1660848023",
+            "_type": "image/jpeg",
+            "_length": "55494"
+          }
+        },
+        {
+          "title": "ASHRAE Seeks Abstracts for 2023 Annual Conference",
+          "description": {
+            "__cdata": "<p>The event, scheduled for June 24-28 in Tampa, Florida, will focus on building decarbonization. </p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102587",
+          "pubDate": "Fri, 26 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102587-ashrae-seeks-abstracts-for-2023-annual-conference",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/ASHRAE-Logo-6001.png?1659901044",
+            "_type": "image/png",
+            "_length": "46295"
+          }
+        },
+        {
+          "title": "Design-Build Institute of America Honors the Nation’s Best Design-Build Projects",
+          "description": {
+            "__cdata": "<p>DBIA’s 2022 award-winning projects and teams were evaluated by a distinguished panel of industry experts.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102606",
+          "pubDate": "Thu, 25 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102606-design-build-institute-of-america-honors-the-nations-best-design-build-projects",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-0825-slide1-900x550.jpg?1661358083",
+            "_type": "image/jpeg",
+            "_length": "105092"
+          }
+        },
+        {
+          "title": "MP2UVULTM Mobile Refrigeration Compressor – Secop GmbH",
+          "description": {
+            "__cdata": "<p>Secop's experience with battery- and solar-powered active cooling systems is incorporated into the development of this new compressor offering.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102591",
+          "pubDate": "Thu, 25 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102591-mp2uvultm-mobile-refrigeration-compressor-secop-gmbh",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/Photo2.jpg?1660845762",
+            "_type": "image/jpeg",
+            "_length": "22428"
+          }
+        },
+        {
+          "title": "AC Powell Named CEO of National Institute of Building Sciences",
+          "description": {
+            "__cdata": "<p>Powell previously served as CEO of the Association for Facilities Engineering.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102586",
+          "pubDate": "Thu, 25 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102586-ac-powell-named-ceo-of-national-institute-of-building-sciences",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/AC-Powell.jpg?1660839011",
+            "_type": "image/jpeg",
+            "_length": "50339"
+          }
+        },
+        {
+          "title": "White Paper: Addressing Updated AMCA 250-22 Standard",
+          "description": {
+            "__cdata": "<p>Systemair Mfg. Inc. released a white paper for parking garage engineers and designers outlining the details within the newest revision of AMCA/ANSI Standard 250-22.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102604",
+          "pubDate": "Wed, 24 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102604-white-paper-addressing-updated-amca-250-22-standard",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/Systemair-Whitepaper-LEAD.png?1661287036",
+            "_type": "image/png",
+            "_length": "316830"
+          }
+        },
+        {
+          "title": "Daikin Applied Names Jeff Drees as CEO",
+          "description": {
+            "__cdata": "<p>Drees currently serves as executive vice president of sales, marketing, and aftermarket at Daikin Applied, and will replace Mike Schwartz, who is retiring at the end of August after 11 years leading the organization.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102602",
+          "pubDate": "Wed, 24 Aug 2022 01:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102602-daikin-applied-names-jeff-drees-as-ceo",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/23/Jeff-Drees.jpg?1661286329",
+            "_type": "image/jpeg",
+            "_length": "44330"
+          }
+        },
+        {
+          "title": "LOKX System Ductile Iron Fitting – GF Piping Systems",
+          "description": {
+            "__cdata": "<p>Unique internal restraint design is created to prevent pipe-to-pipe and pipe-to-fitting separation. </p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102590",
+          "pubDate": "Wed, 24 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102590-lokx-system-ductile-iron-fitting-gf-piping-systems",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/Main_LOKX_8_Inch_90_Degree_Bend_DIPS_NS.jpg?1660844380",
+            "_type": "image/jpeg",
+            "_length": "45351"
+          }
+        },
+        {
+          "title": "ABB to Acquire Siemens Low-Voltage NEMA Motor Business",
+          "description": {
+            "__cdata": "<p>ABB expands its low-voltage NEMA motor portfolio to further establish itself as a leader in that segment.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102585",
+          "pubDate": "Wed, 24 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102585-abb-to-acquire-siemens-low-voltage-nema-motor-business",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/ABB-Acquires-Siemens-low-voltage-NEMA-motor-business.PNG?1660838130",
+            "_type": "image/png",
+            "_length": "631656"
+          }
+        },
+        {
+          "title": "Low-Cost Direct Solar PV Water Heating",
+          "description": {
+            "__cdata": "<p>The concept of direct PV solar water heating is an effective option.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102597",
+          "pubDate": "Tue, 23 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102597-low-cost-direct-solar-pv-water-heating",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/2208-Kavanaugh-Figure-1.jpg?1661505746",
+            "_type": "image/jpeg",
+            "_length": "192922"
+          }
+        },
+        {
+          "title": "Addressing Updated AMCA 250-22 Standard",
+          "description": {
+            "__cdata": "<p>Systemair Mfg. Inc. released a white paper for parking garage engineers and designers outlining the details within the newest revision of AMCA/ANSI Standard 250-22.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102603",
+          "pubDate": "Tue, 23 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102603-addressing-updated-amca-250-22-standard",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/Systemair-Whitepaper-LEAD.png?1661287036",
+            "_type": "image/png",
+            "_length": "316830"
+          }
+        },
+        {
+          "title": "Vertex Evaporative Condenser – Baltimore Aircoil Co.",
+          "description": {
+            "__cdata": "<p>The Vertex Condenser offers exceptional uptime with easy and safe accessibility.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102589",
+          "pubDate": "Tue, 23 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102589-vertex-evaporative-condenser-baltimore-aircoil-co",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/Vertex.jpg?1660843757",
+            "_type": "image/jpeg",
+            "_length": "37525"
+          }
+        },
+        {
+          "title": "Friedrich Air Conditioning Co. Honors Five Interns",
+          "description": {
+            "__cdata": "<p>The Friedrich internship program provides participating engineering students with the chance to work in one of the most technically advanced room a/c labs in North America while honing their teamwork, communication, presentation, and professionalism skills.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102584",
+          "pubDate": "Tue, 23 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102584-friedrich-air-conditioning-co-honors-five-interns",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/Friedrich-interns.jpg?1660836312",
+            "_type": "image/jpeg",
+            "_length": "74687"
+          }
+        },
+        {
+          "title": "Addressing NFPA 99’s Maintenance Requirements for Health Care Electrical Systems",
+          "description": {
+            "__cdata": "<p>Three strategies designed to improve a facility's preventive maintenance practices.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102596",
+          "pubDate": "Mon, 22 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102596-addressing-nfpa-99s-maintenance-requirements-for-health-care-electrical-systems",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-FF-featured-900x550.jpg?1661505744",
+            "_type": "image/jpeg",
+            "_length": "79115"
+          }
+        },
+        {
+          "title": "ESP-Systemwize Selection Tool with ESP-Thermal – Bell & Gossett",
+          "description": {
+            "__cdata": "<p>ESP-Thermal upgrades Bell & Gossett’s integrated product selection tool for designing efficient HVAC and plumbing systems.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102588",
+          "pubDate": "Mon, 22 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102588-esp-systemwize-selection-tool-with-esp-thermal-bell-and-gossett",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/ESP-Thermal-Bell-Gossett-2.jpg?1660843143",
+            "_type": "image/jpeg",
+            "_length": "89154"
+          }
+        },
+        {
+          "title": "Euan Finlay Named COO of Brown and Caldwell",
+          "description": {
+            "__cdata": "<p>Euan Finlay brings 25 years of driving operational excellence. </p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102583",
+          "pubDate": "Mon, 22 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102583-euan-finlay-named-coo-of-brown-and-caldwell",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/18/Finlay-Brown-Caldwell.jpg?1660835475",
+            "_type": "image/jpeg",
+            "_length": "28629"
+          }
+        },
+        {
+          "title": "DOE to Invest Up to $165 Million to Advance Domestic Geothermal Energy Deployment",
+          "description": {
+            "__cdata": "<p>DOE to Build a Consortium of Experts to Expand Geothermal Deployment by Leveraging Knowledge, Technologies, and Skills from the Oil and Gas Industry</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102595",
+          "pubDate": "Sun, 21 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102595-doe-to-invest-up-to-165-million-to-advance-domestic-geothermal-energy-deployment",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-Geothermal-slide1-900x550.jpg?1661505744",
+            "_type": "image/jpeg",
+            "_length": "84345"
+          }
+        },
+        {
+          "title": "Keeping Refrigerants Even with Piezoelectric-Driven Magnetic Actuators",
+          "description": {
+            "__cdata": "<p>Oak Ridge National Laboratory researchers demonstrated that microchannel heat exchangers in HVAC units can keep refrigerants evenly and continually distributed by inserting a device called a piezoelectric-driven magnetic actuator, or PEDMA.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102594",
+          "pubDate": "Sat, 20 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102594-keeping-refrigerants-even-with-piezoelectric-driven-magnetic-actuators",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/device1_2.jpg?1661505744",
+            "_type": "image/jpeg",
+            "_length": "170729"
+          }
+        },
+        {
+          "title": "Who Are The ‘System Integrators?’",
+          "author": "ira@buildingintelligencegroup.com (Ira Goldschmidt P.E.)",
+          "description": {
+            "__cdata": "<p>Expertise, authority, and good sense still have a hard time overlapping for a definitive answer.</p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102592",
+          "pubDate": "Fri, 19 Aug 2022 04:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102592-who-are-the-system-integrators",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/images/2022/Aug/ES-BAS-slide1-900x550.jpg?1660847748",
+            "_type": "image/jpeg",
+            "_length": "61711"
+          }
+        },
+        {
+          "title": "Metasys 12.0 Building Automation System – Johnson Controls",
+          "description": {
+            "__cdata": "<p>The latest release delivers a future-ready BAS with enhanced security and a clear path to modernization. </p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102575",
+          "pubDate": "Fri, 19 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102575-metasys-120-building-automation-system-johnson-controls",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/11/Metasys_12.jpg?1660241077",
+            "_type": "image/jpeg",
+            "_length": "141498"
+          }
+        },
+        {
+          "title": "Terracon Names Lori Cathcart Director of Corporate Sustainability",
+          "description": {
+            "__cdata": "<p>Cathcart is responsible for developing and implementing internal corporate sustainability strategies, policies, and procedures including stakeholder engagement, materiality assessments, risk analysis, and reporting. </p>"
+          },
+          "guid": "http://www.esmagazine.com/articles/102570",
+          "pubDate": "Fri, 19 Aug 2022 00:00:00 -0400",
+          "link": "https://www.esmagazine.com/articles/102570-terracon-names-lori-cathcart-director-of-corporate-sustainability",
+          "enclosure": {
+            "_url": "https://www.esmagazine.com/ext/resources/2022/08/10/cathcart-lori-terracon.jpg?1661505745",
+            "_type": "image/jpeg",
+            "_length": "52052"
+          }
+        }
+      ]
+    },
+    "_xmlns:media": "http://search.yahoo.com/mrss/",
+    "_version": "2.0"
+  }
+}

@@ -1,0 +1,236 @@
+{
+	"rss": {
+		"channel": {
+			"language": "en-us",
+			"title": "InsideEVs - Articles",
+			"link": "https://insideevs.com/",
+			"description": "Get breaking news, in-depth articles and press releases covering Articles",
+			"lastBuildDate": "Tue, 30 Aug 2022 14:02:47 +0000",
+			"image": {
+				"url": "https://insideevs.com/favicon.ico",
+				"title": "InsideEVs",
+				"link": "https://insideevs.com/"
+			},
+			"generator": "Zend_Feed_Writer 2 (http://framework.zend.com)",
+			"item": [
+				{
+					"title": "2023 Smart #1 Brabus Revealed With Dual-Motor, 422 Horsepower",
+					"description": "This is going to be one quick electric crossover, with a claimed sprint time to sixty of under 4 seconds.",
+					"pubDate": "Tue, 30 Aug 2022 13:58:33 +0000",
+					"link": "https://insideevs.com/news/607324/smart-number-1-brabus-revealed-china/",
+					"guid": "https://insideevs.com/news/607324/smart-number-1-brabus-revealed-china/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "21118",
+						"_url": "https://cdn.motor1.com/images/mgl/P336bG/s6/smart-1-brabus.jpg"
+					}
+				},
+				{
+					"title": "Tesla Storing Impressive Number of 4680 Battery Packs At Giga Texas",
+					"description": "The number of structural packs is impressive, but why is Tesla just storing them?",
+					"pubDate": "Tue, 30 Aug 2022 13:38:05 +0000",
+					"link": "https://insideevs.com/news/607313/tesla-storing-4680-structural-battery-packs/",
+					"guid": "https://insideevs.com/news/607313/tesla-storing-4680-structural-battery-packs/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "37002",
+						"_url": "https://cdn.motor1.com/images/mgl/4009qq/s6/qbx7pbrezga.jpg"
+					}
+				},
+				{
+					"title": "Tesla Owner Seeks Class Action Against Automaker For Phantom Braking",
+					"description": "The Model 3 owner who wants to take Tesla to court describes the issue as a “frightening and dangerous nightmare.”",
+					"pubDate": "Tue, 30 Aug 2022 12:47:25 +0000",
+					"link": "https://insideevs.com/news/607309/tesla-class-action-lawsuit-phantom-braking/",
+					"guid": "https://insideevs.com/news/607309/tesla-class-action-lawsuit-phantom-braking/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "17685",
+						"_url": "https://cdn.motor1.com/images/mgl/NGG3Vl/s6/tesla-model-3-and-model-y.jpg"
+					}
+				},
+				{
+					"title": "Volvo Trucks Shares Lessons Learned From EV Truck Pilot Project",
+					"description": "A total of 30 Volvo VNR Electric covered more than 250,000 miles.",
+					"pubDate": "Tue, 30 Aug 2022 12:46:52 +0000",
+					"link": "https://insideevs.com/news/606851/volvo-light-project-ev-truck-pilot/",
+					"guid": "https://insideevs.com/news/606851/volvo-light-project-ev-truck-pilot/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "31653",
+						"_url": "https://cdn.motor1.com/images/mgl/P336Gy/s6/the-volvo-lights-roundup-event-featured-a-display-of-volvo-vnr-electric-trucks-from-project-participants-including-nfi-penske-truck-leasing-penske-medline-quality-custom-distribution-qcd-10-roads-express-saia-and-sce..jpg"
+					}
+				},
+				{
+					"title": "ONYX’s New LZR Combines Dirt Jumper Performance With Urban Utility",
+					"description": "The geometry and capability of a dirt jumper gets a powerful electric boost. ",
+					"pubDate": "Tue, 30 Aug 2022 12:26:42 +0000",
+					"link": "https://insideevs.com/news/607205/onyx-lzr-dirtjumper-electric-bike/",
+					"guid": "https://insideevs.com/news/607205/onyx-lzr-dirtjumper-electric-bike/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "30730",
+						"_url": "https://cdn.motor1.com/images/mgl/0eeZvV/s6/onyx-s-new-lzr-combines-dirt-jumper-performance-with-urban-utility.jpg"
+					}
+				},
+				{
+					"title": "Official: Honda And LG Energy Solution To Form EV Battery JV In The US",
+					"description": "A $4.4 billion investment in a 40 GWh battery gigafactory has been confirmed.",
+					"pubDate": "Mon, 29 Aug 2022 22:41:25 +0000",
+					"link": "https://insideevs.com/news/607158/honda-lges-ev-battery-jv-us/",
+					"guid": "https://insideevs.com/news/607158/honda-lges-ev-battery-jv-us/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "18142",
+						"_url": "https://cdn.motor1.com/images/mgl/Akk8VN/s6/lg-energy-solution-and-honda-to-form-joint-venture-for-ev-battery-production-in-the-u.s..jpg"
+					}
+				},
+				{
+					"title": "Watch Rivian R1T Retrieve Boat It Launched Into Bear Lake",
+					"description": "It is said that retrieving a boat is more difficult than launching it, but the R1T made it seem easy.",
+					"pubDate": "Mon, 29 Aug 2022 19:29:39 +0000",
+					"link": "https://insideevs.com/news/607164/rivian-r1t-retrieve-boat-lake/",
+					"guid": "https://insideevs.com/news/607164/rivian-r1t-retrieve-boat-lake/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "31132",
+						"_url": "https://cdn.motor1.com/images/mgl/L33NwL/s6/bex8viskt5u.jpg"
+					}
+				},
+				{
+					"title": "Electric Bike Company Introduces New Model F Folding E-Bike",
+					"description": "The new e-bike offers the stability of a larger cruiser bike with the convenience of a folding bike. ",
+					"pubDate": "Mon, 29 Aug 2022 17:30:09 +0000",
+					"link": "https://insideevs.com/news/606970/electric-bike-company-model-f-folding-bike/",
+					"guid": "https://insideevs.com/news/606970/electric-bike-company-model-f-folding-bike/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "24625",
+						"_url": "https://cdn.motor1.com/images/mgl/Akk8mO/s6/jdwgbg4vkz0.jpg"
+					}
+				},
+				{
+					"title": "World Rallycross Racing Ditches Gas, Goes Electric",
+					"description": "No major racing championship has converted itself completely from fossil fuel to electrons, until now.",
+					"pubDate": "Mon, 29 Aug 2022 17:26:00 +0000",
+					"link": "https://insideevs.com/news/607122/world-rallycross-ditch-gas-for-electric-cars/",
+					"guid": "https://insideevs.com/news/607122/world-rallycross-ditch-gas-for-electric-cars/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "40829",
+						"_url": "https://cdn.motor1.com/images/mgl/0eeZ0V/s6/final_start_worldrx_hell_2022_deedb_frz_1400x788-1024x576.jpg"
+					}
+				},
+				{
+					"title": "Fox News Accuses Prince Harry Of Gas-Guzzling In Audi e-tron EV",
+					"description": "The Audi e-tron doesn't really look much different from most gas-powered EVs, but Fox News should have done its homework.",
+					"pubDate": "Mon, 29 Aug 2022 17:25:46 +0000",
+					"link": "https://insideevs.com/news/607125/fox-news-accuses-prince-harry-climate-hypocrisy/",
+					"guid": "https://insideevs.com/news/607125/fox-news-accuses-prince-harry-climate-hypocrisy/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "28263",
+						"_url": "https://cdn.motor1.com/images/mgl/W88Rvo/s6/prince-harry-audi-e-tron-fox-news.jpg"
+					}
+				},
+				{
+					"title": "Tesla's Elon Musk Focusing On Wide Release Of FSD Before Year's End",
+					"description": "During Musk's recent talk about the future of energy, he admits his primary focus is SpaceX and FSD, at least for now.",
+					"pubDate": "Mon, 29 Aug 2022 15:37:03 +0000",
+					"link": "https://insideevs.com/news/607111/tesla-elon-musk-fsd-wide-release-focus-2022/",
+					"guid": "https://insideevs.com/news/607111/tesla-elon-musk-fsd-wide-release-focus-2022/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "13230",
+						"_url": "https://cdn.motor1.com/images/mgl/X9pjk/s6/15-intriguing-facts-about-tesla-ceo-elon-musk.jpg"
+					}
+				},
+				{
+					"title": "EVs Can Accelerate To Sixty In Under One Second, Rimac Engineer Says",
+					"description": "That’s around half the time it takes today’s Rimac Nevera to do the benchmark sprint.",
+					"pubDate": "Mon, 29 Aug 2022 15:34:36 +0000",
+					"link": "https://insideevs.com/news/607115/evs-acceleration-under-one-second-rimac/",
+					"guid": "https://insideevs.com/news/607115/evs-acceleration-under-one-second-rimac/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "29275",
+						"_url": "https://cdn.motor1.com/images/mgl/MkkXjp/s6/2023-rimac-nevera-exterior-front-quarter.jpg"
+					}
+				},
+				{
+					"title": "These Crazy Unusual EV Survey Question Responses May Shock You",
+					"description": "While more and more people are learning about EVs, this simple survey shows we've got a long way to go with EV education.",
+					"pubDate": "Mon, 29 Aug 2022 14:19:07 +0000",
+					"link": "https://insideevs.com/news/607088/crazy-unusual-electric-car-survey-responses/",
+					"guid": "https://insideevs.com/news/607088/crazy-unusual-electric-car-survey-responses/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "1",
+						"_url": "https://cdn.motor1.com/images/mgl/9qA3m/s6/tesla-model-y-charging-at-a-tesla-supercharging-station.jpg"
+					}
+				},
+				{
+					"title": "Volcon On Track To Release First Electric Bicycle Soon",
+					"description": "The Volcon Brat could soon offer the rugged styling of an electric motorbike with the accessibility of an e-bike. ",
+					"pubDate": "Mon, 29 Aug 2022 14:17:28 +0000",
+					"link": "https://insideevs.com/news/606967/volocn-brat-teased-socia-media/",
+					"guid": "https://insideevs.com/news/606967/volocn-brat-teased-socia-media/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "32105",
+						"_url": "https://cdn.motor1.com/images/mgl/0eeZ7W/s6/volcon-on-track-to-release-first-electric-bicycle-soon.jpg"
+					}
+				},
+				{
+					"title": "Updated Tesla Semi Photos Show The Truck In More Detail",
+					"description": "Does this mean 2022 deliveries are still on track?",
+					"pubDate": "Mon, 29 Aug 2022 13:37:51 +0000",
+					"link": "https://insideevs.com/news/607084/tesla-semi-new-photos/",
+					"guid": "https://insideevs.com/news/607084/tesla-semi-new-photos/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "7122",
+						"_url": "https://cdn.motor1.com/images/mgl/eooxnP/s6/tesla-semi-updated-photos.jpg"
+					}
+				},
+				{
+					"title": "Beat-Up Tesla Cybertruck Found Wearing Special Equipment",
+					"description": "It appears someone at Tesla really put this Cybertruck prototype through the paces. Perhaps there's footage?",
+					"pubDate": "Mon, 29 Aug 2022 13:29:34 +0000",
+					"link": "https://insideevs.com/news/607070/beat-up-tesla-cybertruck-wearing-cameras/",
+					"guid": "https://insideevs.com/news/607070/beat-up-tesla-cybertruck-wearing-cameras/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "33120",
+						"_url": "https://cdn.motor1.com/images/mgl/P6164/s6/tesla-cybertruck.jpg"
+					}
+				},
+				{
+					"title": "Electric Car Adoption Soars Above Expert Predictions",
+					"description": "Nobody really predicted that EV sales would be as high as they are right now.",
+					"pubDate": "Mon, 29 Aug 2022 12:04:27 +0000",
+					"link": "https://insideevs.com/news/606721/ev-adoption-above-expectations/",
+					"guid": "https://insideevs.com/news/606721/ev-adoption-above-expectations/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "17685",
+						"_url": "https://cdn.motor1.com/images/mgl/NGG3Vl/s6/tesla-model-3-and-model-y.jpg"
+					}
+				},
+				{
+					"title": "NIO ET7 Prototypes Spotted Testing In Poland",
+					"description": "Testing spreads across Europe ahead of the upcoming market launch.",
+					"pubDate": "Mon, 29 Aug 2022 02:54:25 +0000",
+					"link": "https://insideevs.com/news/606825/nio-et7-prototypes-spotted-poland/",
+					"guid": "https://insideevs.com/news/606825/nio-et7-prototypes-spotted-poland/",
+					"enclosure": {
+						"_type": "image/jpeg",
+						"_length": "31262",
+						"_url": "https://cdn.motor1.com/images/mgl/zxxoOq/s6/nio-et7-spotted-in-poland.jpg"
+					}
+				}
+			]
+		},
+		"_version": "2.0"
+	}
+}

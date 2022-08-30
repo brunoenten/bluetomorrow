@@ -1,0 +1,356 @@
+{
+	"rss": {
+		"channel": {
+			"title": "Water Tech Research",
+			"link": "https://www.watertechresearch.com/",
+			"description": "IDTechEx provides independent analysis on the development and application of RFID, Printed Electronics, Photovoltaics and Energy Harvesting",
+			"language": "en",
+			"copyright": "Copyright (C) IDTechEx Ltd",
+			"item": [
+				{
+					"title": "Low-Cost Sensing Assists Climate Adaptation",
+					"description": "'What gets measured gets managed' is a well-known adage in business, but could it also be applied to mitigating the effects of climate change? The recently published IPCC (Intergovernmental Panel on Climate Change) report emphasizes the importance of adaptation alongside emission reduction.",
+					"link": "https://www.idtechex.com/en/research-article/low-cost-sensing-assists-climate-adaptation/26272?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/low-cost-sensing-assists-climate-adaptation/26272?rsst2id=222"
+					},
+					"pubDate": "Thu, 24 Mar 2022 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/96/CE.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/96/CE.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "m.dyson@IDTechEx.com (Dr Matthew Dyson)"
+				},
+				{
+					"title": "Smart Buildings: Another Frontier for the Digital Revolution",
+					"description": "Smart buildings aim to bring digital technologies into the fabric of the building, rather than just to objects within it. They will utilize a wide range of emerging technologies, such as semi-transparent photovoltaics on windows, moisture sensors for leak detection, and printed heaters with wall panels.",
+					"link": "https://www.idtechex.com/en/research-article/smart-buildings-another-frontier-for-the-digital-revolution/25459?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/smart-buildings-another-frontier-for-the-digital-revolution/25459?rsst2id=222"
+					},
+					"pubDate": "Thu, 09 Dec 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/90/37.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/90/37.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "m.dyson@IDTechEx.com (Dr Matthew Dyson)"
+				},
+				{
+					"title": "Join the Upcoming IDTechEx Webinar - Smart Cities in 2022",
+					"description": "Friday 12 November 2021 - covering recent progress with smart cities and what is likely to happen in 2022. It deals with both new cities and existing ones that are radically modernising. Learn how the objectives are now far more ambitious",
+					"link": "https://www.idtechex.com/en/research-article/join-the-upcoming-idtechex-webinar-smart-cities-in-2022/25111?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/join-the-upcoming-idtechex-webinar-smart-cities-in-2022/25111?rsst2id=222"
+					},
+					"pubDate": "Thu, 04 Nov 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/8D/91.png?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/8D/91.png?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "a.garrington@idtechex.com (Annick Garrington)"
+				},
+				{
+					"title": "Rethinking Smart Cities: Setbacks and How to Move Forward",
+					"description": "Ideas have moved on from a smart city being a dystopian world of sensors everywhere and people control by artificial intelligence - smart cities are primarily about progressing to water, food, and power independence and minimal transport. How to make smart cities in both deserts and the sea must be figured out.",
+					"link": "https://www.idtechex.com/en/research-article/rethinking-smart-cities-setbacks-and-how-to-move-forward/24963?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/rethinking-smart-cities-setbacks-and-how-to-move-forward/24963?rsst2id=222"
+					},
+					"pubDate": "Thu, 14 Oct 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/8C/53.png?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/8C/53.png?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "p.harrop@IDTechEx.com (Dr Peter Harrop)"
+				},
+				{
+					"title": "Launch of the Largest Solar Powered Water Desalination System in Kenya",
+					"description": "On the 22nd of September 2021, one of the largest water desalination projects, and the first of its kind in Africa will be launched in Marsabit County, Kenya. It delivers over 11,000litres of drinking water per hour, with a capacity of providing water to over 30,000 community members in a radius of 5km water points, which will be distributed through 24 fully automated water ATMs.",
+					"link": "https://www.offgridenergyindependence.com/articles/24754/launch-of-the-largest-solar-powered-water-desalination-system-in-kenya?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.offgridenergyindependence.com/articles/24754/launch-of-the-largest-solar-powered-water-desalination-system-in-kenya?rsst2id=222"
+					},
+					"pubDate": "Thu, 16 Sep 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/8A/BE.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/8A/BE.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					]
+				},
+				{
+					"title": "CHASM Advanced Materials Closes $15 Million in Series C Funding",
+					"description": "CHASM Advanced Materials Inc announced the completion of a $15 million Series C financing round led by WAVE Equity Partners. The funds will be used to accelerate commercial penetration of CHASM's AgeNT™ products for transparent printed electronics, NTeC™ products for energy storage and a broad range of composites applications, and to launch CHASM-H2O™ - a new category of membranes targeted at disrupting water treatment to address the world's water scarcity problem.",
+					"link": "https://www.printedelectronicsworld.com/articles/24600/chasm-advanced-materials-closes-15-million-in-series-c-funding?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.printedelectronicsworld.com/articles/24600/chasm-advanced-materials-closes-15-million-in-series-c-funding?rsst2id=222"
+					},
+					"pubDate": "Tue, 24 Aug 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/89/9E.png?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/89/9E.png?w=460&q=50",
+							"__prefix": "media"
+						}
+					]
+				},
+				{
+					"title": "Simple Way to Desalinate Water Using Solar Energy",
+					"description": "Engineers have developed a new desalination technology. The new technology will significantly reduce the cost of desalination and quadruple the volume of production, according to reports.",
+					"link": "https://www.offgridenergyindependence.com/articles/24412/simple-way-to-desalinate-water-using-solar-energy?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.offgridenergyindependence.com/articles/24412/simple-way-to-desalinate-water-using-solar-energy?rsst2id=222"
+					},
+					"pubDate": "Mon, 02 Aug 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/88/32.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/88/32.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					]
+				},
+				{
+					"title": "Technology Analyst Careers at IDTechEx: Positions Available",
+					"description": "We are looking for entrepreneurial, enthusiastic people to join IDTechEx to apply their technical knowledge. You will be involved with technology scouting, market research and consultancy in a rapidly growing, exciting, global firm.",
+					"link": "https://www.idtechex.com/en/research-article/technology-analyst-careers-at-idtechex-positions-available/21785?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/technology-analyst-careers-at-idtechex-positions-available/21785?rsst2id=222"
+					},
+					"pubDate": "Wed, 24 Mar 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/73/1C.png?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/73/1C.png?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "n.moreton@idtechex.com (Natalie Fifield)"
+				},
+				{
+					"title": "New Graphene Nanochannel Water Filters",
+					"description": "Researchers have shown that tiny channels between graphene sheets can be aligned in a way that makes them ideal for water filtration.",
+					"link": "https://www.printedelectronicsworld.com/articles/22905/new-graphene-nanochannel-water-filters?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.printedelectronicsworld.com/articles/22905/new-graphene-nanochannel-water-filters?rsst2id=222"
+					},
+					"pubDate": "Thu, 28 Jan 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/7C/16.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/7C/16.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					]
+				},
+				{
+					"title": "Smart Cities Pivot to Water",
+					"description": "Cities will make all their own food, fresh water, and electricity for reasons of empowerment, security, and cost.",
+					"link": "https://www.idtechex.com/en/research-article/smart-cities-pivot-to-water/22554?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/smart-cities-pivot-to-water/22554?rsst2id=222"
+					},
+					"pubDate": "Tue, 05 Jan 2021 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/79/85.png?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/79/85.png?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "p.harrop@IDTechEx.com (Dr Peter Harrop)"
+				},
+				{
+					"title": "Join the Upcoming Webinar: Smart Cities Become Much More Ambitious",
+					"description": "18 November 2020 - The expenditure on new technologies for emerging smart cities will pass one trillion dollars yearly. That is the subject of this webinar -sharing some of the research carried out by PhD level multilingual IDTechEx analysts worldwide for their new overview report on smart city technologies with 35 forecasts.",
+					"link": "https://www.idtechex.com/en/research-article/join-the-upcoming-webinar-smart-cities-become-much-more-ambitious/22193?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/join-the-upcoming-webinar-smart-cities-become-much-more-ambitious/22193?rsst2id=222"
+					},
+					"pubDate": "Fri, 13 Nov 2020 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/76/4D.png?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/76/4D.png?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "a.garrington@idtechex.com (Annick Garrington)"
+				},
+				{
+					"title": "IDTechEx Have Released a New Report on the Smart Cities Market",
+					"description": "IDTechEx have released a new market research report on the topic of smart cities markets - trillions of dollars on reinvented energy, food, water, transport, sensing, multipurpose materials.",
+					"link": "https://www.idtechex.com/en/research-article/idtechex-have-released-a-new-report-on-the-smart-cities-market/22179?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/idtechex-have-released-a-new-report-on-the-smart-cities-market/22179?rsst2id=222"
+					},
+					"pubDate": "Thu, 05 Nov 2020 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/76/26.png?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/76/26.png?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "a.garrington@idtechex.com (Annick Garrington)"
+				},
+				{
+					"title": "Sensors Post COVID, Electrification, Bionics, Technology Breakthroughs",
+					"description": "The new IDTechEx report, \"Sensors 2021-2041\" uniquely analyses the whole subject in the light of such seismic changes as the COVID-19 virus. The sensor business is in turmoil. The industries that spend most on sensors are changing as are the sensors.",
+					"link": "https://www.idtechex.com/en/research-article/sensors-post-covid-electrification-bionics-technology-breakthroughs/21427?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/sensors-post-covid-electrification-bionics-technology-breakthroughs/21427?rsst2id=222"
+					},
+					"pubDate": "Sun, 16 Aug 2020 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/6F/AD.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/6F/AD.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "p.harrop@IDTechEx.com (Dr Peter Harrop)"
+				},
+				{
+					"title": "Sensors With Electrical Output: Technology, Materials, Uses & Forecast",
+					"description": "Join IDTechEx Chairman, Dr Peter Harrop in this 8-minute presentation on Sensors, discussing patents, the effect of COVID19, sensor market drivers in construction, agriculture, mining, military, aerospace, consumer electronics, medical, automotive & rail.",
+					"link": "https://www.idtechex.com/en/research-article/sensors-with-electrical-output-technology-materials-uses-and-forecast/21268?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/sensors-with-electrical-output-technology-materials-uses-and-forecast/21268?rsst2id=222"
+					},
+					"pubDate": "Mon, 20 Jul 2020 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/6E/0B.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/6E/0B.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "p.harrop@IDTechEx.com (Dr Peter Harrop)"
+				},
+				{
+					"title": "Key Sensor Trends as Industries Evolve",
+					"description": "Robotics, automotive, energy and healthcare. Interview with Dr Peter Harrop on his new report: Sensors 2021-2041",
+					"link": "https://www.idtechex.com/en/research-article/key-sensor-trends-as-industries-evolve/21206?rsst2id=222",
+					"guid": {
+						"_isPermaLink": "true",
+						"__text": "https://www.idtechex.com/en/research-article/key-sensor-trends-as-industries-evolve/21206?rsst2id=222"
+					},
+					"pubDate": "Fri, 10 Jul 2020 ZZZ",
+					"content": [
+						{
+							"_width": "140",
+							"_url": "https://idtxs3.imgix.net/si/40000/6D/5F.jpg?w=140&q=50",
+							"__prefix": "media"
+						},
+						{
+							"_width": "460",
+							"_url": "https://idtxs3.imgix.net/si/40000/6D/5F.jpg?w=460&q=50",
+							"__prefix": "media"
+						}
+					],
+					"author": "r.das@IDTechEx.com (Raghu Das)"
+				}
+			]
+		},
+		"_xmlns:media": "http://search.yahoo.com/mrss/",
+		"_version": "2.0"
+	}
+}

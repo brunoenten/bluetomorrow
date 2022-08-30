@@ -97,11 +97,11 @@ export function Header() {
               <Logo className="h-10 w-auto" />
             </Link>
             <div className="hidden md:flex md:gap-x-6">
-              <NavLink href="#features">Solar</NavLink>
-              <NavLink href="#testimonials">Mobility</NavLink>
-              <NavLink href="#features">Heating / Cooling</NavLink>
-              <NavLink href="#pricing">Water</NavLink>
-              <NavLink href="#pricing">Food</NavLink>
+              <NavLink href="/solar">Solar</NavLink>
+              <NavLink href="/mobility">Mobility</NavLink>
+              <NavLink href="/hvac">Heating / Cooling</NavLink>
+              <NavLink href="/water">Water</NavLink>
+              <NavLink href="/food">Food</NavLink>
             </div>
           </div>          
         </nav>
