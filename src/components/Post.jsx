@@ -1,3 +1,5 @@
+import { htmlToText } from 'html-to-text'
+
 export function Post({...post}) {  
   return (
     <div key={post.title} className="flex flex-col rounded-lg shadow-lg overflow-hidden">
@@ -14,7 +16,7 @@ export function Post({...post}) {
           </p>
           <a href={post.link} className="block mt-2">
             <p className="text-xl font-semibold text-gray-900">{post.title}</p>
-            <p className="mt-3 text-base text-gray-500">{typeof post.description === 'object'? post.description.__cdata : post.description}</p>
+            <p className="mt-3 text-base text-gray-500">{typeof post.description === 'object'? post.description.__cdata : htmlToText(post.description)}</p>
           </a>
         </div>
         <div className="mt-6 flex items-center">
