@@ -1,3 +1,4 @@
+// Written from scratch, making heavy use of tailwindUI components
 import { useState, useEffect } from 'react'
 import ApplicationLayout from '../layouts/application'
 
@@ -59,7 +60,7 @@ export default function Home() {
                     value={email}
                     id="email"
                     autoComplete="email"
-                    className="w-full rounded-md border-gray-300 px-5 py-3 placeholder-gray-500 focus:border-indigo-500 focus:ring-indigo-500 sm:max-w-xs"
+                    className="w-full rounded-md border-gray-300 px-5 py-3 placeholder-gray-500 focus:border-blue-500 focus:ring-blue-500 sm:max-w-xs"
                     placeholder="Enter your email"
                     aria-invalid={!emailValid}
                     aria-describedby="email-error"
@@ -73,8 +74,9 @@ export default function Home() {
                 <div className="mt-3 sm:mt-0 sm:ml-3 sm:flex-shrink-0">
                   <button
                     type="submit"
+                    name="subscribe"
                     disabled={!emailValid}
-                    className="rounded-md shadow flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                    className="rounded-md shadow flex w-full items-center justify-center rounded-md border border-transparent bg-blue-600 px-5 py-3 text-base font-medium text-white hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
             >
                     Subscribe
                   </button>
@@ -82,7 +84,7 @@ export default function Home() {
               </form>
               <p className="mt-3 text-sm text-gray-500">
                 We care about the protection of your data. Read our{' '}
-                <a href="https://www.freeprivacypolicy.com/live/8aa6d81f-5211-4265-bb9d-234b5fec4bed" className="font-medium text-gray-900 underline" target="_blank">
+                <a href="https://www.freeprivacypolicy.com/live/8aa6d81f-5211-4265-bb9d-234b5fec4bed" className="font-medium text-gray-900 underline" target="_blank" rel="noreferrer">
                   Privacy Policy
                 </a>
                 .

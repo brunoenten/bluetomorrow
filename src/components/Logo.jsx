@@ -1,6 +1,7 @@
+// Written from scratch. SVG generated with Affinity Designer software
 export function Logo(props) {
   return (
-    <svg      
+    <svg
       xmlns="http://www.w3.org/2000/svg"
       fillRule="evenodd"
       strokeLinejoin="round"

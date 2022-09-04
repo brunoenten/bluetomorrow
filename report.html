@@ -1,0 +1,158 @@
+<!doctype html>
+<html >
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--[if lt IE 9]>
+                <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="template.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/template.css" />
+
+    <link href="https://vjs.zencdn.net/5.4.4/video-js.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <!-- <script type='text/javascript' src='menu/js/jquery.cookie.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.hoverIntent.minified.js'></script> -->
+    <!-- <script type='text/javascript' src='menu/js/jquery.dcjqaccordion.2.7.min.js'></script> -->
+
+    <!-- <link href="menu/css/skins/blue.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/graphite.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="menu/css/skins/grey.css" rel="stylesheet" type="text/css" /> -->
+  
+    <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+        
+  
+    <!-- <script src="script.js"></script> -->
+  
+    <!-- <script src="jquery.sticky-kit.js "></script> -->
+    <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/js/jquery.cookie.js'></script>
+    <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/js/jquery.hoverIntent.minified.js'></script>
+    <script type='text/javascript' src='https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/js/jquery.dcjqaccordion.2.7.min.js'></script>
+
+    <link href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/css/skins/blue.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/css/skins/graphite.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/menu/css/skins/grey.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/gh/ryangrose/easy-pandoc-templates@948e28e5/css/elegant_bootstrap.css" rel="stylesheet" type="text/css" />
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/script.js"></script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/diversen/pandoc-bootstrap-adaptive-template@959c3622/jquery.sticky-kit.js"></script>
+    <meta name="generator" content="pandoc" />
+  <title>blueTomorrow Report</title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+
+    
+    <div class="container">
+    <div class="row">
+            <div id="TOC" class="span3">
+        <div class="well toc">
+
+        <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#state-3-things-that-have-inspired-you-when-creating-your-website">State 3 things that have inspired you when creating your website</a></li>
+        <li><a href="#state-3-ways-in-which-your-site-is-accessible">State 3 ways in which your site is accessible</a></li>
+        <li><a href="#state-3-ways-in-which-you-have-considered-usability-in-your-site.">State 3 ways in which you have considered usability in your site.</a></li>
+        <li><a href="#state-3-things-you-had-to-learnfind-out-by-yourself-when-creating-your-site-and-describe">State 3 things you had to learn/find out by yourself when creating your site, and describe</a></li>
+        <li><a href="#what-aspects-of-your-work-do-you-think-worked-well-and-why">What aspect(s) of your work do you think worked well and why?</a></li>
+        <li><a href="#what-aspects-of-your-work-could-be-improved-and-how-might-you-do-things-differently-another-time">What aspect(s) of your work could be improved, and how might you do things differently another time?</a></li>
+        <li><a href="#what-resources-were-used-when-creating-your-work">What resources were used when creating your work?</a><ul>
+        <li><a href="#tailwind-ui">Tailwind UI</a></li>
+        <li><a href="#htmltotext">htmlToText</a></li>
+        <li><a href="#logo">Logo</a></li>
+        <li><a href="#privacy-policy">Privacy policy</a></li>
+        <li><a href="#rss-to-json">RSS to JSON</a></li>
+        <li><a href="#content-providers">Content providers</a></li>
+        <li><a href="#aria-tester">Aria tester</a></li>
+        </ul></li>
+        <li><a href="#appendices">Appendices</a><ul>
+        <li><a href="#site-map">Site Map</a></li>
+        <li><a href="#wireframes-and-mockups">Wireframes and Mockups</a><ul>
+        <li><a href="#home-page">Home page</a></li>
+        </ul></li>
+        <li><a href="#aria-report">ARIA report</a></li>
+        </ul></li>
+        </ul>
+
+        </div>
+      </div>
+            <div class="span9">
+      <p>#Report: Large Coursework ### Bruno Enten</p>
+<h1 id="introduction">Introduction</h1>
+<p>What is the essential story being told by your site and what type of structure did you choose to implement.</p>
+<p>blueTomorrow is an old school so called portal website, federating news about technologies related to the environment. The structure is flat, with a single, one level navigation.</p>
+<h1 id="state-3-things-that-have-inspired-you-when-creating-your-website">State 3 things that have inspired you when creating your website</h1>
+<ul>
+<li>The name came from the ridiculous trend from the automotive industry to call their supposedly green technologies blue-something.</li>
+<li>This flat, minimalist design comes from everything produced by Tailwind CSS creators</li>
+<li>I was checking latest news from two of these federated websites when I had the idea for blueTomorrow. So thanks to vegconomist.com and insideevs.com for inspiration</li>
+</ul>
+<h1 id="state-3-ways-in-which-your-site-is-accessible">State 3 ways in which your site is accessible</h1>
+<ul>
+<li>ARIA attributes allows usage of assistive devices</li>
+<li>Minimalist, high contrast design helps people with vision issues</li>
+<li>No paywall, which could discourage people with mental handicaps</li>
+</ul>
+<h1 id="state-3-ways-in-which-you-have-considered-usability-in-your-site.">State 3 ways in which you have considered usability in your site.</h1>
+<ul>
+<li>Design is minimalist and to the point. There are no redundant sections to distract users from the content</li>
+<li>Single, flat navigation. Every section is directly accessible through the top navigation links</li>
+<li>Using a lean CSS framework, tailwind, making for a responsive website, both in terms of performance and device support</li>
+</ul>
+<h1 id="state-3-things-you-had-to-learnfind-out-by-yourself-when-creating-your-site-and-describe">State 3 things you had to learn/find out by yourself when creating your site, and describe</h1>
+<ul>
+<li>I had no prior knowledge of RSS feeds structure. I googled “RSS xml specs” and read the official specs</li>
+<li>I had never had to generate static files from a nextJS app before. I googled “generate static files from nextjs” and got the answer from the official documentation</li>
+<li>I didn’t know how to pass whole objects as attributes to react components. I got it to work after reading the official documentation, and looking for a few SO examples.</li>
+</ul>
+<h1 id="what-aspects-of-your-work-do-you-think-worked-well-and-why">What aspect(s) of your work do you think worked well and why?</h1>
+<ul>
+<li>Using tailwind allowed someone like me, with close to zero graphic design savviness, to produce a pleasant looking website.</li>
+<li>Using nextJS and starting from a template meant I had more time to work on the actual product, instead of wasting time on boilerplate code.</li>
+</ul>
+<h1 id="what-aspects-of-your-work-could-be-improved-and-how-might-you-do-things-differently-another-time">What aspect(s) of your work could be improved, and how might you do things differently another time?</h1>
+<p>The way I handle the plethora of ways to structure a RSS feed is pretty bad at the moment. A separate library producing clean, standardized json from a bunch of mixed RSS structures would improve the aspect of each post.</p>
+<h1 id="what-resources-were-used-when-creating-your-work">What resources were used when creating your work?</h1>
+<h2 id="tailwind-ui">Tailwind UI</h2>
+<p>The project was bootstrapped by starting from a nextJS / TailwindCSS template from TailwindUI <a href="https://tailwindui.com/templates/salient">TailwindUI salient template</a> Various elements are sourced from TailwindUI components repository, then modified to suit the needs of the website.</p>
+<h2 id="htmltotext">htmlToText</h2>
+<p>The RSS feed from one of the federated website contains html elements. To unify the content’s format of all sources, I used this js lib to convert HTML to plain text. <a href="https://github.com/Sanchithasharma/htmlToText">htmlToText</a></p>
+<h2 id="logo">Logo</h2>
+<p>I produced the logo by using a free icon from thenounproject, and the roboto font <a href="https://thenounproject.com/browse/icons/term/bird">Bird by Douglas Gordon</a></p>
+<h2 id="privacy-policy">Privacy policy</h2>
+<p>Privacy policy generated and hosted for free, thanks to <a href="https://app.freeprivacypolicy.com/">FreePrivacyPolicy</a></p>
+<h2 id="rss-to-json">RSS to JSON</h2>
+<p>The goal was to build a static website but at the same time I didn’t feel like creating the actual content by myself. I fetched content from the RSS feeds of a few websites, and converted the result to JSON using <a href="https://jsonformatter.org/rss-to-json">RSS to JSON converter</a></p>
+<h2 id="content-providers">Content providers</h2>
+<p>Content of posts comes from these websites * SOLAR <a href="https://www.renewableenergyworld.com/">Renewable Energy World</a> * MOBILITY <a href="https://insideevs.com">InsideEVs</a> * HVAC <a href="http://www.esmagazine.com">ES Magazine</a> * WATER <a href="https://www.watertechresearch.com">Watertech Research</a> * FOOD <a href="https://vegconomist.com">Vegconomist</a></p>
+<h2 id="aria-tester">Aria tester</h2>
+<p>Used <a href="https://www.experte.com/accessibility">Aria Tester</a> to check aria validity. ## Usual suspects Of course I made heavy use of google, stack overflow, npm, …</p>
+<h1 id="appendices">Appendices</h1>
+<h2 id="site-map">Site Map</h2>
+<ul>
+<li>Home</li>
+<li>Solar</li>
+<li>Mobility</li>
+<li>Heating / Cooling</li>
+<li>Water</li>
+<li>Food</li>
+</ul>
+<h2 id="wireframes-and-mockups">Wireframes and Mockups</h2>
+<h3 id="home-page">Home page</h3>
+<p><img src="blueTomorrow-mock-home.png" alt="home page" /> ### Blog <img src="blueTomorrow-mock-blog.png" alt="blog" /></p>
+<h2 id="aria-report">ARIA report</h2>
+<p><a href="blueTomorrow-aria-report.pdf">PDF Report</a> One error was left as is intentionally to make the report more interesting.</p>
+            </div>
+    </div>
+  </div>
+  <script src="https://vjs.zencdn.net/5.4.4/video.js"></script>
+
+</body>
+</html>

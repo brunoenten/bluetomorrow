@@ -1,10 +1,18 @@
-# Salient
+# BlueTomorrow
 
-Salient is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+BlueTomorrow is a portal federating the news from various green blogs. It exists for a coursework as part of a Bachelor of Science from the University of London.
 
-## Getting started
+Bootstrapped from Salient, a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
-To get started with this template, first install the npm dependencies:
+
+## Structure
+
+Files of interests reside in src/pages and src/components
+URLs are automatically routed to pages.
+See Next.js documentation for more informations.
+## Development
+
+To start in development mode, first install dependencies:
 
 ```bash
 npm install
@@ -18,18 +26,16 @@ npm run dev
 
 Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
-## Customizing
+## Build
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+Use the following command to build the website for production
+
+```bash
+npm run build
+```
+
+The static website will be generated into the out directory.
 
 ## License
+[MIT License](https://opensource.org/licenses/MIT) is applicable to this project
 
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
-
-## Learn more
-
-To learn more about the technologies used in this site template, see the following resources:
-
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation

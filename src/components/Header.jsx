@@ -1,3 +1,4 @@
+// From template, heavily modified
 import { Fragment } from 'react'
 import Link from 'next/link'
 import { Popover, Transition } from '@headlessui/react'
@@ -78,7 +79,7 @@ function MobileNavigation() {
           >
             <MobileNavLink href="#features">Features</MobileNavLink>
             <MobileNavLink href="#testimonials">Testimonials</MobileNavLink>
-            <MobileNavLink href="#pricing">Pricing</MobileNavLink>            
+            <MobileNavLink href="#pricing">Pricing</MobileNavLink>
           </Popover.Panel>
         </Transition.Child>
       </Transition.Root>
@@ -102,7 +103,7 @@ export function Header() {
               <NavLink href="/water">Water</NavLink>
               <NavLink href="/food">Food</NavLink>
             </div>
-          </div>          
+          </div>
         </nav>
       </Container>
     </header>

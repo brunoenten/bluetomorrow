@@ -1,8 +1,9 @@
+// Written from scratch
 import { Blog } from '@/components/Blog'
 import rss from '@/content/mobility'
 import ApplicationLayout from '../layouts/application'
 
-export default function Mobility() {  
+export default function Mobility() {
   return (
     <ApplicationLayout>
       <Blog {...rss} />

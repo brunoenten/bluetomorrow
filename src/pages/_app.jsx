@@ -1,3 +1,4 @@
+// Verbatim from template
 import 'focus-visible'
 import '@/styles/tailwind.css'
 
