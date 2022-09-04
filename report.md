@@ -2,9 +2,6 @@
 ### Bruno Enten
 
 # Introduction
-What is the essential story being told by your site and what type of structure
-did you choose to implement.
-
 blueTomorrow is an old school so called portal website, federating news about technologies related to the environment. The structure is flat, with a single, one level navigation.
 
 # State 3 things that have inspired you when creating your website
